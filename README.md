@@ -49,4 +49,4 @@ We all have different config files and settings that we want to ensure that are 
 
 ## License
 
-([MIT](http://opensource.org/licenses/mit-license.php)
+[MIT](http://opensource.org/licenses/mit-license.php)
