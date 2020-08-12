@@ -9,7 +9,7 @@ This is a bash script that copies various directories on a Mac (currently works 
 **Files**
 + ~/.zshrc
 
-# ToDo
+## ToDo
 
 - [ ] implement error handling
 - [ ] consider adding prompt for the creation of a CRON job
