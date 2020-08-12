@@ -2,10 +2,11 @@
 This is a bash script that copies various directories on a Mac (currently works on Catalina).
 
 *The following files / directories are copied*
-**+ Directories**
+
+**Directories**
 + ~/.ssh/
 
-**+ Files**
+**Files**
 + ~/.zshrc
 
 # ToDo
