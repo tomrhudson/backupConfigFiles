@@ -3,7 +3,7 @@
 # A bash script to backup important files on my Mac
 # Tom Hudson
 # to make this file executable, change the permissions on this file in Terminal by:
-# chmod +x test_script.sh
+# chmod +x bkpConfigFiles.sh
 clear
 
 backupFolder=~/Documents/aaaFiles/
