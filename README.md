@@ -11,9 +11,9 @@ This is a bash script that copies various directories on a Mac (currently works 
 
 # ToDo
 
--[ ]implement error handling
--[ ]consider adding prompt for the creation of a CRON job
--[ ]add ability to perform the copy of files/directories via SSH to a primate GitHub repo
+-[ ] implement error handling
+-[ ] consider adding prompt for the creation of a CRON job
+-[ ] add ability to perform the copy of files/directories via SSH to a primate GitHub repo
 
 ## Features / Example
 TBA
