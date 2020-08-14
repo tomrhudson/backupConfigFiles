@@ -15,6 +15,8 @@ This is a bash script that copies various directories on a Mac (currently works 
 - [ ] consider adding prompt for the creation of a CRON job
 - [ ] add ability to perform the copy of files/directories via SSH to a primate GitHub repo
 - [ ] add ability to backup Atom IDE styles.less file (located in: /Users/$USERNAME/.atom/styles.less)
+- [ ] add ability to backup Atom IDE snippets.cson
+- [ ] 
 
 ## Features / Example
 TBA
